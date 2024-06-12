@@ -52,20 +52,10 @@
 
 
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center" >
-  
- ![](https://github-readme-stats.vercel.app/api?username=sukanyagurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
- 
-<img src="https://streak-stats.demolab.com?user=sukanyagurav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  align="left" />
-</div>
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sukanyagurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sukanyagurav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukanyagurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 
 ###
