@@ -59,11 +59,13 @@
 ###
 
 <div align="center" >
+
+ ![](https://github-readme-stats.vercel.app/api?username=sukanyagurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img src="https://streak-stats.demolab.com?user=sukanyagurav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  align="left" />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukanyagurav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukanyagurav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
 
-
-  <img src="https://streak-stats.demolab.com?user=sukanyagurav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  align="right" />
+  
   
 </div>
 
