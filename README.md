@@ -49,8 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/sukanyagurav/sukanyagurav/output/snake.svg" alt="Snake animation" />
+![](https://github-readme-stats.vercel.app/api?username=sukanyagurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ###
 
@@ -68,4 +67,9 @@
 <div align="center">
 </div>
 
-###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sukanyagurav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sukanyagurav&limit=5&theme=dark&combine_all_yearly_contributions=true)
