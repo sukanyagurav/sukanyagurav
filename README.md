@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Sukanya Gurav
 
 ## 🚀 About Me
-I'm a **Front-End Developer** with **2+ years** of experience, passionate about building user-friendly, responsive, and high-performance web applications. I specialize in **React.js**, **JavaScript (ES6+),** **TypeScript**, and modern front-end technologies.
+<p>I'm a **Front-End Developer** with **2+ years** of experience, passionate about building user-friendly, responsive, and high-performance web applications. I specialize in **React.js**, **JavaScript (ES6+),** **TypeScript**, and modern front-end technologies.</p>
 
 🎓 **Education**: BSc in Information Technology  
 💼 **Current Role**: Associate Technical Engineer  
