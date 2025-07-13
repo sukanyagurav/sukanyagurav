@@ -7,7 +7,7 @@
 
 🎓 **Education**: BSc in Information Technology  
 💼 **Current Role**: Associate Technical Engineer  
-🔍 **Seeking**: Front-End Developer opportunities  
+
 ###
 
 <h3 align="left"></h3>
