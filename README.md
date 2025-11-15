@@ -7,6 +7,8 @@
 
 🎓 **Education**: BSc in Information Technology  
 💼 **Current Role**: Associate Technical Engineer  
+📚 **Learning**: Svelte, SvelteKit, Playwright
+   
 
 ###
 
