@@ -6,7 +6,7 @@
 <p>I'm a <b>Front-End Developer</b> with <b>4+ years</b> of experience, passionate about building user-friendly, responsive, and high-performance web applications. I specialize in <b>React.js</b>, <b>JavaScript (ES6+)</b>,  <b>TypeScript</b>, and modern front-end technologies.</p>
 
 🎓 **Education**: BSc in Information Technology  
-💼 **Current Role**: Associate Technical Engineer  
+💼 **Current Role**: Frontend Developer
 📚 **Learning**: Svelte, SvelteKit, Playwright
    
 
