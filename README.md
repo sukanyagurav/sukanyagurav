@@ -1,6 +1,6 @@
 # Hi, I'm Sukanya 👋
 
-Frontend Engineer with 5+ years of experience building fast, accessible, well-tested web apps. I currently work on enterprise dashboards and a widget-configuration platform used by 30–40+ teams at Kyndryl.
+Frontend Engineer with 5+ years of experience building fast, accessible, well-tested web apps. 
 
 ## What I work with
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,9 +17,6 @@ Frontend Engineer with 5+ years of experience building fast, accessible, well-te
 - **[BingeVerse](LINK-TO-REPO)** ([live](https://my-portfolio-5867.netlify.app/)): movie/TV browser with actor profiles, genres and trailers. React, Redux, React Router.
 - **[MerchMaze](LINK-TO-REPO)**: e-commerce cart with discount/checkout logic and accessibility work. React, Zustand.
 - *(add your new projects here)*
-
-## Currently
-Building in public: a Next.js data-heavy dashboard, with Playwright tests and CI.
 
 ## Find me
 [Portfolio](https://my-portfolio-5867.netlify.app/) · [LinkedIn](YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
