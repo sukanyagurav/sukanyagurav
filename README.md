@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi, I'm Sukanya Gurav 👋
 
@@ -7,8 +6,6 @@
 Building responsive, accessible and reliable web experiences.
 
 [Portfolio](https://sukanya-gurav-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/sukanya-gurav-frontend-developer) · [Email](mailto:sukanyagurav5867@gmail.com)
-
-</div>
 
 ---
 
