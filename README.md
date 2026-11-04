@@ -1,22 +1,56 @@
-# Hi, I'm Sukanya 👋
+<div align="center">
 
-Frontend Engineer with 5+ years of experience building fast, accessible, well-tested web apps. 
+# Hi, I'm Sukanya Gurav 👋
 
-## What I work with
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Frontend Software Engineer | React · TypeScript · UI Engineering**
 
-**Day to day:** React, TypeScript, Svelte, Lit web components, state management, data visualization (Apache ECharts), performance (Lighthouse / Core Web Vitals), automated testing (Playwright, Jest/RTL).
+Building responsive, accessible and reliable web experiences.
 
-## Featured projects
-- **[BingeVerse](LINK-TO-REPO)** ([live](https://my-portfolio-5867.netlify.app/)): movie/TV browser with actor profiles, genres and trailers. React, Redux, React Router.
-- **[MerchMaze](LINK-TO-REPO)**: e-commerce cart with discount/checkout logic and accessibility work. React, Zustand.
-- *(add your new projects here)*
+[Portfolio](https://sukanya-gurav-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/sukanya-gurav-frontend-developer) · [Email](mailto:sukanyagurav5867@gmail.com)
 
-## Find me
-[Portfolio](https://my-portfolio-5867.netlify.app/) · [LinkedIn](YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
+</div>
+
+---
+
+## About me
+
+I'm a Frontend Software Engineer with **5+ years of experience** building enterprise web applications, primarily with **React, TypeScript and JavaScript**.
+
+I enjoy turning complex product requirements into clear, maintainable user experiences. My work has included reusable UI components and web components, role-based interfaces, data-heavy dashboards, performance improvements, accessibility, and automated testing.
+
+I care about the details that make frontend applications dependable: predictable state, useful loading and error states, keyboard-friendly interactions, secure data handling, and code that is easy for teams to maintain.
+
+## What I work on
+
+- **Frontend development:** Building responsive product interfaces with React, TypeScript, JavaScript, HTML and CSS.
+- **Reusable UI:** Developing shared components and design-system elements with Svelte, Lit and Web Components.
+- **Performance and reliability:** Improving rendering and data-fetching flows, and making frontend test suites faster and more dependable.
+- **Accessibility and security:** Applying semantic HTML, ARIA, keyboard navigation, input validation, sanitization and access-control patterns.
+- **Testing:** Writing component and end-to-end tests with Jest, React Testing Library and Playwright.
+
+## Selected public projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Entertainment Web App](https://github.com/sukanyagurav/Entertainment-web-app) · [Live demo](https://entertainmentwebapp67.netlify.app) | Browse and search movies and TV shows, explore genres and view related titles and cast information in a responsive interface. | React, Redux Toolkit, CSS |
+| [Coffee Roasters Subscription](https://github.com/sukanyagurav/coffeeroasters-subscription-site) · [Live demo](https://coffeeroasters-subscription-site-fm.netlify.app) | Responsive subscription flow with selectable preferences and an order-summary modal. | React, CSS, Flexbox |
+
+## Tech stack
+
+**Core:** TypeScript, JavaScript (ES6+), React, HTML5, CSS3  
+**UI and state:** Redux Toolkit, Zustand, Svelte, Lit, Web Components, Tailwind CSS  
+**Testing:** Playwright, Jest, React Testing Library, Vitest  
+**Data and integration:** REST APIs, GraphQL, Apache ECharts  
+**Tools:** Git, Vite, GitHub Actions, GitHub Copilot
+
+## Currently exploring
+
+Practical AI-assisted development workflows, stronger frontend testing strategies, and ways to build faster and more accessible product interfaces.
+
+## Let's connect
+
+I'm always happy to connect with engineers, designers and product teams working on thoughtful web products.
+
+- **Portfolio:** [sukanya-gurav-portfolio.netlify.app](https://sukanya-gurav-portfolio.netlify.app)
+- **LinkedIn:** [Sukanya Gurav](https://www.linkedin.com/in/sukanya-gurav-frontend-developer)
+- **Email:** [sukanyagurav5867@gmail.com](mailto:sukanyagurav5867@gmail.com)
