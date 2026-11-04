@@ -25,6 +25,13 @@ I care about the details that make frontend applications dependable: predictable
 - **Accessibility and security:** Applying semantic HTML, ARIA, keyboard navigation, input validation, sanitization and access-control patterns.
 - **Testing:** Writing component and end-to-end tests with Jest, React Testing Library and Playwright.
 
+## Tech stack
+
+**Core:**  TypeScript, JavaScript (ES6+), React, HTML5, CSS3  
+**UI and state:** Redux Toolkit, Zustand, Svelte, Lit, Web Components, Tailwind CSS  
+**Testing:** Playwright, Jest, React Testing Library, Vitest  
+**Data and integration:** REST APIs, GraphQL, Apache ECharts  
+**Tools:** Git, Vite, GitHub Actions, GitHub Copilot
 ## Selected public projects
 
 | Project | Description | Stack |
@@ -32,13 +39,7 @@ I care about the details that make frontend applications dependable: predictable
 | [Entertainment Web App](https://github.com/sukanyagurav/Entertainment-web-app) · [Live demo](https://entertainmentwebapp67.netlify.app) | Browse and search movies and TV shows, explore genres and view related titles and cast information in a responsive interface. | React, Redux Toolkit, CSS |
 | [Coffee Roasters Subscription](https://github.com/sukanyagurav/coffeeroasters-subscription-site) · [Live demo](https://coffeeroasters-subscription-site-fm.netlify.app) | Responsive subscription flow with selectable preferences and an order-summary modal. | React, CSS, Flexbox |
 
-## Tech stack
 
-**Core:** TypeScript, JavaScript (ES6+), React, HTML5, CSS3  
-**UI and state:** Redux Toolkit, Zustand, Svelte, Lit, Web Components, Tailwind CSS  
-**Testing:** Playwright, Jest, React Testing Library, Vitest  
-**Data and integration:** REST APIs, GraphQL, Apache ECharts  
-**Tools:** Git, Vite, GitHub Actions, GitHub Copilot
 
 ## Currently exploring
 
