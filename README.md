@@ -32,7 +32,7 @@ I care about the details that make frontend applications dependable: predictable
 **Testing:** Playwright, Jest, React Testing Library, Vitest  
 **Data and integration:** REST APIs, GraphQL, Apache ECharts  
 **Tools:** Git, Vite, GitHub Actions, GitHub Copilot
-## Selected public projects
+## Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
